@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "904387613070",
+    "project_id": "flame-49dfd",
+    "storage_bucket": "flame-49dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904387613070:android:e8ec956e4f2d6150d614df",
+        "android_client_info": {
+          "package_name": "com.example.flame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904387613070-6qmm0tvn47sd76bv3eslltuimd34jt1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBplFIACpp3-G46bdF5gOF3YqBIn9st1gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904387613070-6qmm0tvn47sd76bv3eslltuimd34jt1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "904387613070-gj70qnrs5a52qbq9040o6gj1vd0qp9tm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
